@@ -1,0 +1,4 @@
+bookcorpus-splitted
+llama2-small-bigram-guided/checkpoint*/
+*.npy
+*.zip
